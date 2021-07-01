@@ -20,7 +20,7 @@ Model Building - Error anlysis
 
 # Missing Value treatment 
 
-1} Numeric Value imputed by taking class reference
+1) Numeric Value imputed by taking class reference
 
 2) TransformerMixin and Bestestimator has filled categorical missing values
 
